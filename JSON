@@ -41,11 +41,11 @@
       "backgroundColor": "2, 237, 75",
       "font": "Code"
     },
-    "ExamplePaidUser": {
-      "rank": 1,
-      "tag": "SKA PREMIUM",
-      "tagColor": "235, 180, 50",
-      "glowColor": "255, 200, 80",
+    "i8agy72": {
+      "rank": 3,
+      "tag": "SKA OWNER",
+      "tagColor": "255, 50, 100",
+      "glowColor": "255, 0, 50",
       "canEditNametag": true
     },
     "ExampleAdmin": {
