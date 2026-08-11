@@ -31,16 +31,6 @@
       "glowColor": "255, 0, 50",
       "canEditNametag": true
     },
-    "i8agy72": {
-      "rank": 1,
-      "canEditNametag": false,
-      "tag": "SKA's BITCH LOLL",
-      "tagColor": "255, 49, 182",
-      "glowColor": "53, 0, 255",
-      "outlineColor": "230, 15, 37",
-      "backgroundColor": "2, 237, 75",
-      "font": "Code"
-    },
     "i8agy40": {
       "rank": 1,
       "canEditNametag": false,
@@ -67,7 +57,7 @@
     }
   },
   "banned": {
-    "BannedUser123": {
+    "i8agy40": {
       "reason": "Unauthorized chargeback",
       "bannedBy": "i8agy",
       "date": "2026-08-01"
