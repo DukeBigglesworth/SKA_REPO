@@ -1,89 +1,83 @@
 {
-    "version": "9.0",
-    "lastUpdated": "2026-08-10",
-    "users": {
-        "i8agy": {
-            "rank": 3,
-            "tag": "SKA OWNER",
-            "tagColor": "255, 50, 100",
-            "glowColor": "255, 0, 50",
-            "customTheme": {
-                "bg": "20, 20, 26",
-                "accent": "255, 50, 100",
-                "text": "245, 245, 250"
-            },
-            "canEditNametag": true,
-            "expires": null
-        },
-        "urination_king": {
-            "rank": 3,
-            "tag": "SKA OWNER",
-            "tagColor": "255, 50, 100",
-            "glowColor": "255, 0, 50",
-            "canEditNametag": true,
-            "expires": null
-        },
-        "deffication_queen": {
-            "rank": 3,
-            "tag": "SKA OWNER", 
-            "tagColor": "255, 50, 100",
-            "glowColor": "255, 0, 50",
-            "canEditNametag": true,
-            "expires": null
-        },
-        "5pjk": {
-            "rank": 3,
-            "tag": "SKA OWNER",
-            "tagColor": "255, 50, 100",
-            "glowColor": "255, 0, 50",
-            "canEditNametag": true,
-            "expires": null
-        },
-        "i8agy72": {
-            "rank": 3,
-            "tag": "SKA OWNER",
-            "tagColor": "255, 50, 100",
-            "glowColor": "255, 0, 50",
-            "canEditNametag": true,
-            "expires": null
-        },
-        "ExamplePaidUser": {
-            "rank": 1,
-            "tag": "SKA PREMIUM",
-            "tagColor": "235, 180, 50",
-            "glowColor": "255, 200, 80",
-            "canEditNametag": true,
-            "expires": "2026-12-31"
-        },
-        "ExampleAdmin": {
-            "rank": 2,
-            "tag": "SKA ADMIN",
-            "tagColor": "235, 50, 50",
-            "glowColor": "255, 80, 80",
-            "canEditNametag": true,
-            "expires": null
-        }
+  "users": {
+    "i8agy": {
+      "rank": 3,
+      "tag": "SKA OWNER",
+      "tagColor": "255, 50, 100",
+      "glowColor": "255, 0, 50",
+      "outlineColor": "255, 50, 100",
+      "backgroundColor": "20, 20, 25",
+      "font": "GothamBold",
+      "canEditNametag": true
     },
-    "banned": {
-        "BannedUser123": {
-            "reason": "Unauthorized chargeback",
-            "bannedBy": "i8agy",
-            "date": "2026-08-01",
-            "hwid": null,
-            "ip": null
-        }
+    "urination_king": {
+      "rank": 3,
+      "tag": "SKA OWNER",
+      "tagColor": "255, 50, 100",
+      "glowColor": "255, 0, 50",
+      "canEditNametag": true
     },
-    "globalSettings": {
-        "freeUserCommands": ["bring_all", "esp", "fullbright"],
-        "paidUserCommands": ["bring_all", "bring_murderer", "esp", "fullbright", "fling", "blind", "kill"],
-        "adminCommands": ["bring_all", "bring_murderer", "esp", "fullbright", "fling", "blind", "kill", "crash", "ip_ban"],
-        "ownerCommands": ["all"],
-        "maintenanceMode": false,
-        "maintenanceMessage": "SKA Admin is under maintenance. Please try again later.",
-        "requiredVersion": "7.0"
+    "deffication_queen": {
+      "rank": 3,
+      "tag": "SKA OWNER",
+      "tagColor": "255, 50, 100",
+      "glowColor": "255, 0, 50",
+      "canEditNametag": true
     },
-    "announcements": {
-        "message": "Welcome to SKA v7! New server browser added!",
-        "expires": "2026-08-15"
+    "5pjk": {
+      "rank": 3,
+      "tag": "SKA OWNER",
+      "tagColor": "255, 50, 100",
+      "glowColor": "255, 0, 50",
+      "canEditNametag": true
+    },
+    "i8agy72": {
+      "rank": 1,
+      "canEditNametag": false,
+      "tag": "SKA's BITCH LOLL",
+      "tagColor": "255, 49, 182",
+      "glowColor": "53, 0, 255",
+      "outlineColor": "230, 15, 37",
+      "backgroundColor": "2, 237, 75",
+      "font": "Code"
+    },
+    "i8agy40": {
+      "rank": 1,
+      "canEditNametag": false,
+      "tag": "SKA's BITCH LOLL",
+      "tagColor": "255, 49, 182",
+      "glowColor": "53, 0, 255",
+      "outlineColor": "230, 15, 37",
+      "backgroundColor": "2, 237, 75",
+      "font": "Code"
+    },
+    "ExamplePaidUser": {
+      "rank": 1,
+      "tag": "SKA PREMIUM",
+      "tagColor": "235, 180, 50",
+      "glowColor": "255, 200, 80",
+      "canEditNametag": true
+    },
+    "ExampleAdmin": {
+      "rank": 2,
+      "tag": "SKA ADMIN",
+      "tagColor": "235, 50, 50",
+      "glowColor": "255, 80, 80",
+      "canEditNametag": true
     }
+  },
+  "banned": {
+    "BannedUser123": {
+      "reason": "Unauthorized chargeback",
+      "bannedBy": "i8agy",
+      "date": "2026-08-01"
+    }
+  },
+  "globalSettings": {
+    "freeUserCommands": ["bring_all", "esp", "fullbright"],
+    "paidUserCommands": ["bring_all", "bring_murderer", "esp", "fullbright", "fling", "blind", "kill"],
+    "adminCommands": ["bring_all", "bring_murderer", "esp", "fullbright", "fling", "blind", "kill", "crash"],
+    "ownerCommands": ["all"],
+    "maintenanceMode": false
+  }
 }
